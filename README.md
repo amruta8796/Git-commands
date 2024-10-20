@@ -1,8 +1,8 @@
 #GIT Command
 
-This tutorial is to learn the consepts of devops
+This tutorial is to learn the concepts of devops
 
 This includes
-Commaands
+Commands
 videos 
 
